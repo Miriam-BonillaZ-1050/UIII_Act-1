@@ -1,16 +1,14 @@
-# myapp
+# Android UIII Act 1 Flutter Trip Application UI Design and Animation FireBase Studio
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/caf17b01-e7a0-49e3-b376-2f883eeccf0d)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/99189de6-a6c8-4ba6-b7c9-cd7938526479)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/5b8f31a5-da70-4372-ae57-cab5adc055be)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/f2b3fec4-3e6f-416a-8c4b-b639d7b8e2b5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+

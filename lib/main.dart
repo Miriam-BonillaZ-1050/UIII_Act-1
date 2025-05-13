@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
             page: 1,
             image: 'assets/images/one.jpg',
             title: 'Voleibol',
-            description: '!Articulos para voleibol disponibles en nuestra tienda!',
+            description: '!Articulos para voleibol disponibles en nuestra tienda! :)',
           ),
           makePage(
             page: 2,

@@ -1,4 +1,3 @@
-# Android UIII Act 1 Flutter Trip Application UI Design and Animation FireBase Studio
 
 ![image](https://github.com/user-attachments/assets/caf17b01-e7a0-49e3-b376-2f883eeccf0d)
 
